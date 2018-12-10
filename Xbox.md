@@ -4,5 +4,7 @@ Xbox fue la primera videoconsola de sobremesa producida por Microsoft, en colabo
 Índice
 
 
-juegos
- * gta
+juegos de xbox
+* gta
+* Halo
+* Halo II
