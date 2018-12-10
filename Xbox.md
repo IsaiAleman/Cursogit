@@ -8,3 +8,4 @@ juegos de xbox
 * gta
 * Halo
 * Halo II
+* Destiny
